@@ -1,4 +1,4 @@
-# -BS-OS-Broken-spawn-OS-
+# /BS//OS (Broken spawn OS)
 # /BS//OS
 
 ### A Debian-based Linux operating system.
