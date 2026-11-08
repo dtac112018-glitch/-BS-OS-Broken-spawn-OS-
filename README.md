@@ -35,6 +35,10 @@ The project has its own name and identity, with room for its own design choices,
 | Kernel foundation | Linux |
 | Package management | Debian APT ecosystem |
 
+## How to install to disk?
+
+To install to disk, install installer your own and install to disk or use calamares.
+
 ## Technologies
 
 ### Debian
